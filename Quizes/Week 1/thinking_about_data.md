@@ -44,12 +44,6 @@ C. Low, Medium, High (ordinal) <br>
 - [ ] Categorical
 - [X] Numeric
 
-7. Normalisation of attribute values applies to the following types of attributes:
-
-- [ ] Ordinal
-- [ ] Categorical
-- [X] Numeric
-
 8. The purpose of normalisation is to:
 - [ ] remove outliers from the training data
 - [ ] quantize values into discrete non-overlapping ranges
@@ -73,10 +67,10 @@ C. Low, Medium, High (ordinal) <br>
 - A non-monotonic relationship between numerical or ordinal values and the class can be dealt with by -> D. converting the values to a variety of overlapping numerical ranges.
 
 11. Normalising (e.g., if we scale, centre and deslant the image) allows us to use post-normalisation pixel values as features for classification
-- [ ] It depends on the types of images and the classi�cation task
+- [X] It depends on the types of images and the classifcation task
 - [ ] Never
 - [ ] Always
-- [X] It depends on the pixel values in the images
+- [ ] It depends on the pixel values in the images
 
 12. For object recognition in images, we want attributes that are
 - [X]invariant to irrelevant differences in the training images such as scale, rotation, lighting
