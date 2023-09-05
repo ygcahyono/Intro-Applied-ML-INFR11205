@@ -17,3 +17,6 @@ It is important to understand on how get a balance between Bias and Variance tra
 - **Author**: Yogi Cahyono.
 - **Created**: September, 5th 2023.
 - **Modified**: September, 5th 2023.
+
+#### Backlog
+- [ ] How to identify model's Variance and Bias. The natural way is evaluate the model performance, but usually it only captures the low Bias result? Do we need to visualise it? Also it must be differ for a classification and regression task.
